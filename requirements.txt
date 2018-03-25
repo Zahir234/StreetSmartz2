@@ -1,0 +1,4 @@
+flask
+requests
+requests-toolbelt==0.8.0
+Flask-Cors
